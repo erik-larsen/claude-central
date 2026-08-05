@@ -1,0 +1,5 @@
+# Central store location, per OS. Used by sync-claude-central.sh / .ps1.
+# Copy this file to shared-path.txt (same directory as the scripts) and
+# fill in your own NAS paths. shared-path.txt is gitignored.
+mac: /Volumes/YourShare/path/to/claude-central
+windows: \\yournas\YourShare\path\to\claude-central

@@ -1,0 +1,3 @@
+# Machine/network-specific config — contains private NAS hostname/paths.
+# Copy shared-path.txt.example to shared-path.txt and fill in locally.
+shared-path.txt
